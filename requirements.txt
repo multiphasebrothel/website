@@ -1,0 +1,4 @@
+Nikola>=8.2.3
+aiohttp>=3.8.3
+watchdog>=2.1.9
+Jinja2>=3.1.2
